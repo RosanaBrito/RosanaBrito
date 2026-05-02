@@ -14,15 +14,15 @@ Meu foco atual é o aprofundamento em **Confiabilidade de Sites (SRE)**, integra
 
 ---
 
-## 🎓 Formação & Certificações
+## Formação & Certificações
 
-- 🟠 **AWS Certified Cloud Practitioner**
-- 🎓 **Pós-graduação em DevOps – Continuous Software Engineering** – PUC Minas
-- 💻 **Tecnóloga em Redes de Computadores** – Centro Universitário Sumaré
+- **AWS Certified Cloud Practitioner**
+- **Pós-graduação em DevOps – Continuous Software Engineering** – PUC Minas
+- **Tecnóloga em Redes de Computadores** – Centro Universitário Sumaré
 
 ---
 
-## 💫 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -39,7 +39,7 @@ Meu foco atual é o aprofundamento em **Confiabilidade de Sites (SRE)**, integra
 
 ---
 
-## 🔭 Confiabilidade & Evolução Técnica
+##  Confiabilidade & Evolução Técnica
 
 - **SRE & DevOps:** Aplicação de SLOs, SLIs, SLAs, error budgets e automação de pipelines (GitLab/Jenkins).
 - **Cloud & Orchestration:** Operação em nuvem (AWS/GCP) com Kubernetes para alta disponibilidade.
@@ -47,18 +47,18 @@ Meu foco atual é o aprofundamento em **Confiabilidade de Sites (SRE)**, integra
 
 ---
 
-## 📂 Projetos em destaque
+##  Projetos em destaque
 
-- ⚙️ [**sre-lab-app**](https://github.com/rosanabrito/sre-lab-app) — laboratório para **SRE**, com **CI**, **monitoramento** e **deploy**.  
-- ☁️ [**ec2-scheduler-automation**](https://github.com/rosanabrito/ec2-scheduler-automation) — automação **AWS Lambda + EventBridge**.  
-- 🧩 [**kubernetes-labs-pucminas**](https://github.com/rosanabrito/kubernetes-labs-pucminas) — experimentos práticos com **Kubernetes**.  
-- 🏗️ [**lab-terraform-iac-puc-minas**](https://github.com/rosanabrito/lab-terraform-iac-puc-minas) — **Infraestrutura como Código (IaC)** com **Terraform**.  
-- 🚀 [**missao-sre-app**](https://github.com/rosanabrito/missao-sre-app) — **observabilidade, métricas e CI/CD**.  
+-  [**sre-lab-app**](https://github.com/rosanabrito/sre-lab-app) — laboratório para **SRE**, com **CI**, **monitoramento** e **deploy**.  
+-  [**ec2-scheduler-automation**](https://github.com/rosanabrito/ec2-scheduler-automation) — automação **AWS Lambda + EventBridge**.  
+-  [**kubernetes-labs-pucminas**](https://github.com/rosanabrito/kubernetes-labs-pucminas) — experimentos práticos com **Kubernetes**.  
+-  [**lab-terraform-iac-puc-minas**](https://github.com/rosanabrito/lab-terraform-iac-puc-minas) — **Infraestrutura como Código (IaC)** com **Terraform**.  
+-  [**missao-sre-app**](https://github.com/rosanabrito/missao-sre-app) — **observabilidade, métricas e CI/CD**.  
 
 
 ---
 
-## 📫 Como me encontrar
-📧 **Email:** [ro.souza.brito@gmail.com](mailto:ro.souza.brito@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/rosanabrito](https://www.linkedin.com/in/rosanabrito/)
+##  Como me encontrar
+ **Email:** [ro.souza.brito@gmail.com](mailto:ro.souza.brito@gmail.com)  
+ **LinkedIn:** [linkedin.com/in/rosanabrito](https://www.linkedin.com/in/rosanabrito/)
 
