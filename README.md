@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=F79E1B&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+a+Rosana!+👋;Analista+SRE+I+%7C+DevOps+Engineer;Focada+em+Confiabilidade+e+Automação+Cloud;Integrando+Data+&+IA+às+práticas+de+SRE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79E1B&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+a+Rosana!+👋;Analista+SRE+I+%7C+DevOps+Engineer;Focada+em+Confiabilidade+e+Automação+Cloud;Integrando+Data+&+IA+às+práticas+de+SRE" alt="Typing SVG" />
 </p>
 
 ---
 
-# 👩🏽‍💻 Olá! Eu sou a Rosana
+
 
 Sou tecnóloga em Redes de Computadores e **pós-graduada em DevOps – Continuous Software Engineering** pela PUC Minas.  
 Atuo como **Analista SRE I**, dedicada a construir sistemas escaláveis e resilientes através de **automação, observabilidade e cultura DevOps**.
