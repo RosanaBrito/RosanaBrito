@@ -10,7 +10,7 @@
 Sou tecnóloga em Redes de Computadores e **pós-graduada em DevOps – Continuous Software Engineering** pela PUC Minas.  
 Atuo como **Analista SRE I**, dedicada a construir sistemas escaláveis e resilientes através de **automação, observabilidade e cultura DevOps**.
 
-Meu foco atual é o aprofundamento em **Confiabilidade de Sites (SRE)**, integrando práticas modernas de **DataOps e AIOps** para otimizar operações, análise de logs e tomada de decisão inteligente em ambientes cloud-native. 🚀
+Meu foco atual é o aprofundamento em **Confiabilidade de Sites (SRE)**, integrando práticas modernas de **DataOps e AIOps** para otimizar operações, análise de logs e tomada de decisão inteligente em ambientes cloud-native. 
 
 ---
 
