@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79E1B&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+a+Rosana!+👋;Analista+SRE+I+%7C+DevOps+Engineer;Focada+em+Confiabilidade+e+Automação+Cloud;Integrando+Data+&+IA+às+práticas+de+SRE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79E1B&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+a+Rosana!+;Analista+SRE+I+%7C+DevOps+Engineer;Focada+em+Confiabilidade+e+Automação+Cloud;Integrando+Data+IA+às+práticas+de+SRE" alt="Typing SVG" />
 </p>
 
 ---
