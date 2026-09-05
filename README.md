@@ -17,6 +17,8 @@ Meu foco atual é o aprofundamento em **Confiabilidade de Sites (SRE)**, integra
 ## Formação & Certificações
 
 - **AWS Certified Cloud Practitioner**
+- **SRE Foundation Certified**
+- **Dynatrace Essentials Certified**  
 - **Pós-graduação em DevOps – Continuous Software Engineering** – PUC Minas
 - **Tecnóloga em Redes de Computadores** – Centro Universitário Sumaré
 
@@ -35,6 +37,8 @@ Meu foco atual é o aprofundamento em **Confiabilidade de Sites (SRE)**, integra
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
+  <img src="https://img.shields.io/badge/SRE%20Foundation-0052CC?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
