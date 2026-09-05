@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79E1B&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Rosana!+%F0%9F%91%8B;Analista+SRE+%7C+DevOps+%7C+Cloud+Engineer;Focada+em+Confiabilidade%2C+Observabilidade+e+Cloud;Automa%C3%A7%C3%A3o+de+Infraestrutura+e+CI%2FCD" alt="Typing SVG" />
 </p>
----
+
 
 
 
